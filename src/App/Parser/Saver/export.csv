@@ -1,0 +1,61 @@
+ip;port;proxyType;anonymity;country
+110.77.228.53;;HTTPS;HIA;"TH Nonthaburi"
+110.77.171.183;;"HTTPS (Mikrotik)";NOA;TH
+184.168.146.10;;SOCKS5;HIA;US
+107.191.60.243;;"HTTP (Squid)";NOA;"JP Heiwajima (Tokyo)"
+107.191.53.210;;"HTTP (Squid)";NOA;"JP Heiwajima (Tokyo)"
+216.144.230.233;;SOCKS5;HIA;"US Los Angeles (California)"
+107.191.46.119;;"HTTP (Squid)";NOA;"FR Saint-Denis (Seine-Saint-Denis)"
+118.97.36.18;;"HTTPS (Mikrotik)";NOA;"ID Jakarta"
+198.12.154.22;;SOCKS5;HIA;US
+104.238.174.198;;"HTTP (Squid)";NOA;"GB London (England)"
+140.82.15.234;;"HTTP (Squid)";NOA;"US Piscataway (New Jersey)"
+101.108.248.43;;"HTTP (Mikrotik)";NOA;"TH Bangkok"
+208.97.31.229;;SOCKS5;HIA;"US Albany (Georgia)"
+101.108.241.141;;"HTTPS (Mikrotik)";NOA;"TH Bangkok"
+50.62.31.62;;SOCKS5;HIA;"US !!!"
+101.108.185.179;;"HTTPS (Mikrotik)";NOA;"TH Tha Muang (Kanchanaburi)"
+5.133.202.167;;SOCKS5;HIA;"SE !!!"
+190.184.225.247;;"HTTPS (Mikrotik)";NOA;"AR San Andres de Giles (Buenos Aires)"
+1.10.177.32;;"HTTPS (Mikrotik)";NOA;"TH Suphan Buri (Suphanburi)"
+209.250.250.231;;"HTTP (Squid)";NOA;"NL Amsterdam (North Holland)"
+45.243.154.103;;"HTTP (Mikrotik)";NOA;"EG Banha (Qalyubia)"
+150.129.54.111;;SOCKS5;HIA;"IN Amreli (Gujarat)"
+75.151.213.85;;HTTP;HIA;"US Hattiesburg (Mississippi)"
+125.253.112.41;;SOCKS5;HIA;VN
+36.91.128.66;;"HTTP (Mikrotik)";NOA;"ID Jakarta !!!"
+128.168.74.233;;SOCKS5;HIA;US
+69.92.133.126;;HTTPS;HIA;"US Grenada (Mississippi)"
+36.89.181.161;;HTTPS;HIA;"ID Depok (West Java)"
+47.89.249.147;;SOCKS5;HIA;US
+67.73.188.138;;"HTTP (Mikrotik)";NOA;"CO Bogotá (Bogota D.C.)"
+46.28.110.110;;SOCKS5;HIA;"CZ Hluboka nad Vltavou (České Budějovice District)"
+72.221.164.35;;SOCKS5;HIA;US
+96.44.183.149;;SOCKS5;HIA;"US Los Angeles (California)"
+125.135.221.94;;SOCKS5;HIA;"KR Geoje (Gyeongsangnam-do)"
+163.172.202.139;;"HTTPS (Squid)";NOA;GB
+149.97.186.70;;SOCKS5;HIA;"US Brooklyn (New York)"
+79.100.169.228;;"HTTPS (Squid)";NOA;"BG Varna"
+181.101.254.153;;SOCKS5;HIA;"AR Juan Bautista Alberdi (Tucuman) !!!"
+202.69.59.29;;SOCKS5;HIA;PK
+61.91.183.86;;"HTTP (Mikrotik)";NOA;"TH Bangkok"
+182.93.84.136;;SOCKS5;HIA;"NP Kathmandu (Province 3)"
+38.21.34.224;;"HTTP (Mikrotik)";NOA;"US Calera (Oklahoma)"
+184.178.172.28;;SOCKS5;HIA;US
+157.230.154.241;;SOCKS5;HIA;"US Santa Clara (California) !!!"
+110.4.47.140;;SOCKS5;HIA;MY
+144.91.80.248;;"HTTPS (Squid)";NOA;"DE Nuremberg (Bavaria)"
+154.219.1.59;;SOCKS5;HIA;"US Los Angeles (California)"
+124.107.185.3;;"HTTP (Mikrotik)";NOA;"PH Quezon City (Metro Manila)"
+181.102.140.134;;SOCKS5;HIA;"AR !!!"
+181.82.237.248;;SOCKS5;HIA;"AR Buenos Aires (Buenos Aires F.D.) !!!"
+95.78.169.4;;SOCKS5;HIA;"RU Chelyabinsk"
+104.248.63.17;;SOCKS5;HIA;"US North Bergen (New Jersey) !!!"
+103.209.65.12;;SOCKS5;HIA;"IN Valsad (Gujarat)"
+213.109.234.4;;"HTTP (Mikrotik)";NOA;"UA Lviv (L`vivs`ka Oblast`)"
+3.23.89.5;;SOCKS5;HIA;"US Columbus (Ohio)"
+176.123.7.22;;"HTTP (Squid)";NOA;"MD Chisinau (Chișinău Municipality)"
+199.188.93.155;;HTTPS;ANM;"US !!!"
+95.179.200.223;;SOCKS5;HIA;"GB London (England)"
+45.32.25.207;;"HTTP (Squid)";NOA;"JP Heiwajima (Tokyo)"
+186.127.6.168;;SOCKS5;HIA;"AR !!!"

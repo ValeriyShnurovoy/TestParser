@@ -1,0 +1,28 @@
+AppBundle\Entity\Proxy:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\ProxyRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        ip:
+            type: string
+            length: '20'
+            nullable: false
+        port:
+            type: string
+            length: '6'
+        proxy_type:
+            type: string
+            length: '10'
+        anonymity:
+            type: string
+            length: '10'
+        country:
+            type: string
+            length: '100'
+    lifecycleCallbacks: {  }
