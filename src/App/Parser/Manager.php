@@ -5,6 +5,7 @@ namespace App\Parser;
 use App\Parser\Saver\SpysBd;
 use App\Parser\Transport\Transport;
 use App\Parser\Processor\Spys;
+use App\Parser\Processor\SpysQuery;
 
 class Manager
 {
@@ -13,7 +14,7 @@ class Manager
     public function parseSiteData(): array
     {
         $transport = new Transport();
-        $processor = new Spys();
+        $processor = new SpysQuery();
         $saver = new SpysBd();
         $i = 0;
         $eachMarker = true;
